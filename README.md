@@ -1,0 +1,2 @@
+MY Newsfeed App
+This is a simple newsfeed app that allows users to read the latest news from various sources. The app is built using HTML, CSS, and JavaScript and fetches data from the https://inshorts.deta.dev/news?category= API.
